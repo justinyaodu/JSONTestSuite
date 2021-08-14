@@ -1,4 +1,4 @@
-Forked to verify that the (`parseable` JSON parser)[https://github.com/justinyaodu/parseable] is RFC 8259 compliant.
+Forked to verify that the [`parseable` JSON parser](https://github.com/justinyaodu/parseable) is RFC 8259 compliant.
 
 ---
 
