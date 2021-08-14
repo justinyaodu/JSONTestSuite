@@ -172,6 +172,11 @@ programs = {
            "url":"https://pypi.python.org/pypi/demjson",
            "commands":["/usr/bin/env", "jsonlint", "--quiet", "--strict", "--allow=non-portable,duplicate-keys,zero-byte"]
        },
+   "Python parseable":
+       {
+           "url":"https://github.com/justinyaodu/parseable",
+           "commands":["/usr/bin/env", "python", os.path.join(PARSERS_DIR, "test_parseable/test.py")]
+       },
    "Perl Cpanel::JSON::XS":
        {
            "url":"https://metacpan.org/pod/Cpanel::JSON::XS",
