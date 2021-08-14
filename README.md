@@ -1,3 +1,7 @@
+Forked to verify that the (`parseable` JSON parser)[https://github.com/justinyaodu/parseable] is RFC 8259 compliant.
+
+---
+
 # JSON Parsing Test Suite
 A comprehensive test suite for RFC 8259 compliant JSON parsers
 
